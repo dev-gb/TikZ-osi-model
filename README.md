@@ -1,11 +1,11 @@
 # TikZ-osi-model
  Open Systems Interconnection model (OSI Model) created with TikZ for LaTeX
 
-The OSI Model
+OSI Model
 ----------------------
 ![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model.PNG?raw=true)
 
 
-The resized OSI Model
+Unscaled OSI Model
 ----------------------
 ![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model_resized.PNG?raw=true)
