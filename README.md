@@ -8,4 +8,4 @@ OSI Model
 
 Unscaled OSI Model
 ----------------------
-![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model_resized.PNG?raw=true)
+![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model_unscaled.PNG?raw=true)
