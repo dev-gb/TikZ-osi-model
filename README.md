@@ -4,3 +4,8 @@
 The OSI Model
 ----------------------
 ![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model.PNG?raw=true)
+
+
+The resized OSI Model
+----------------------
+![Image of the IPv6 header](https://github.com/dev-gb/TikZ-osi-model/blob/master/osi_model_resized.PNG?raw=true)
