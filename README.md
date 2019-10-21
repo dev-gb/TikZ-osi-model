@@ -1,5 +1,5 @@
 # TikZ-osi-model
-OSI Model created with TikZ for LaTeX
+ Open Systems Interconnection model (OSI Model) created with TikZ for LaTeX
 
 The OSI Model
 ----------------------
