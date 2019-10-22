@@ -4,7 +4,6 @@
 \usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,fit,positioning,shapes.symbols,chains,shapes.geometric,shapes.arrows,calc}
 
 \begin{document}
-
       \begin{tikzpicture}
 
             \draw[rounded corners=3mm,very thick,draw=black!50,top color=white,bottom color=black!20] (-2,0) rectangle (2,-1);
@@ -24,18 +23,13 @@
             \node[] at (0, -8) {Physical Layer};
 
             \node[] at (0, 0.5) {\textbf{User}};
-
             \node[align = center] at (-5.5, 0) {\textbf{Transmit}\\\textbf{Data}};
-
             \node[align = center] at (5.5, 0) {\textbf{Receive}\\\textbf{Data}};
-
             \node[] at (0, -9) {\textbf{Physical Link}};    
 
             \draw[->, line width=0.5mm] (-5.5,-0.75) -- (-5.5,-8.75) ;        
-            \draw[->, line width=0.5mm] (-5.25,-9) -- (-1.5,-9) ;
-            \draw[->, line width=0.5mm] (1.5,-9) -- (5.25,-9) ;
-            \draw[->, line width=0.5mm] (5.5,-8.75) -- (5.5,-0.75) ;
-
+            \draw[->, line width=0.5mm] (-5.25,-9) -- (-1.7,-9) ;
+            \draw[->, line width=0.5mm] (1.7,-9) -- (5.25,-9) ;
+    \draw[->, line width=0.5mm] (5.5,-8.75) -- (5.5,-0.75) ;
       \end{tikzpicture}
-
 \end{document}
